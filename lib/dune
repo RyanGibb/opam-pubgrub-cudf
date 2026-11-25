@@ -1,0 +1,4 @@
+(library
+ (name opam_pubgrub_cudf)
+ (public_name opam-pubgrub-cudf)
+ (libraries cudf pubgrub))
